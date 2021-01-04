@@ -1,0 +1,1 @@
+So still mucking around with git and GitHub. Finally found a good tution guide: the Odin Project
